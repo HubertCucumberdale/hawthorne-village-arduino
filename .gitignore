@@ -7,6 +7,9 @@
 *.o
 *.obj
 
+# PlatformIO build files
+.pio/
+
 # Precompiled Headers
 *.gch
 *.pch
