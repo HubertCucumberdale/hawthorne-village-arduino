@@ -6,6 +6,9 @@
 #define BREAKOUT_PIN_8
 
 // Digital Pins
+#define MODE_BUTTON_PIN (13)
+#define DF_TX_PIN (18)
+#define DF_RX_PIN (19)
 #define BREAKOUT_PIN_9 (23)
 #define BREAKOUT_PIN_10 (22)
 #define BREAKOUT_PIN_11 (25)
