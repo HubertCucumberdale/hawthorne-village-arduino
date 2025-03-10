@@ -1,0 +1,36 @@
+I'm not going to do the addressable thing, the lights need to be individual LEDs, because they need to poke out through holes in the house's structure, but it seems like I only have a few regions:
+1. Outer string lights (12 lights) -- parallel wiring
+2. Child's Room 1 (1 light)
+3. Child's Room 2 (1 light)
+4. Child's Room 3 (1 light)
+5. Family Room (2 lights) -- parallel wiring
+6. Sitting Room (1 light)
+7. Dining Room (1 lights)
+8. Bed Room (1 light)
+9. Upstairs Hallway (1 light)
+10. Attic (1 light)
+
+What equipment do I need to drive these.
+The outer string lights are 3mm leds
+All interior lights are 5mm (width and height) with a square top rather than a domed top.
+
+
+
+
+
+
+
+
+light regions:
+1. Outer string lights (12 lights) -- parallel wiring
+2. Child's Room 1 (1 light)
+3. Child's Room 2 (1 light)
+4. Child's Room 3 (1 light)
+5. Family Room 1 (1 lights)
+6. Family Room 2 (1 lights)
+7. Sitting Room (1 light)
+8. Dining Room 1 (1 lights)
+9. Dining Room 2 (1 lights)
+10. Bed Room (1 light)
+11. Upstairs Hallway (1 light)
+12. Attic (1 light)
